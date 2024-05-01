@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "455385912368",
+    "firebase_url": "https://blu-clip-chat-default-rtdb.firebaseio.com",
+    "project_id": "blu-clip-chat",
+    "storage_bucket": "blu-clip-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455385912368:android:4c8958c61cf5f35cad49f5",
+        "android_client_info": {
+          "package_name": "com.fahriyezeynep.blueclipchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzU_8Spi2Ok5riSnSE7KtrnGd-TrGGayY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
